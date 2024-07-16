@@ -1,0 +1,13 @@
+/* google font */
+
+.playwrite-cu-uniquifier {
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: " Playwrite CU";
